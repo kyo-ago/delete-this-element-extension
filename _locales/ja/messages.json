@@ -1,0 +1,9 @@
+{
+    "extensionDescription": {
+      "message": "右クリックでページの要素を削除します"
+    },
+    "contextMenuTitle": {
+      "message": "この要素を削除"
+    }
+  }
+  

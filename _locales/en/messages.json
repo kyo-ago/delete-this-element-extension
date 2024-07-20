@@ -1,0 +1,9 @@
+{
+    "extensionDescription": {
+      "message": "Right-click to delete an element from the page"
+    },
+    "contextMenuTitle": {
+      "message": "Delete this element"
+    }
+  }
+  
